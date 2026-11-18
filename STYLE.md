@@ -164,6 +164,10 @@ Xで流行したミーム「翻訳語」の文体分析。外国語（主に韓�
 - Let's 〜! の謎の元気さ
 - 文末に lol が付く位置も翻訳調の一部
 
+#### D-9. 長文の連なり
+日本語の文の区切りと接続がそのまま英語に残り、一文が長く連なる。
+実例: "My wife has this habit of always introducing each item she bought one by one when she gets back from shopping, and I can never figure out her intention, which makes me want to laugh, but I feel like if I ever laughed once, she wouldn't do it anymore going forward, so every day I listen with a serious face."
+
 #### D-8. 笑いの記号
 - 草 → "grass" と直訳されるのが有名な失敗例。笑いの体系ごと消える
 - wwww → "lol" や "hahaha" に置き換わるか、そのまま "www" で残って海外側には読めない文字列になる

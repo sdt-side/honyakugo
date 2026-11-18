@@ -12,6 +12,9 @@ STYLE.md の D と prompt.md の英語版プロンプトを実例側に寄せて
 - "...that I burned the sausages (in two senses)."（括弧補足の直訳）
 - 草 → "grass"（笑いの記号の直訳）
 
+- "My wife has this habit of always introducing each item she bought one by one when she gets back from shopping, and I can never figure out her intention, which makes me want to laugh, but I feel like if I ever laughed once, she wouldn't do it anymore going forward, so every day I listen with a serious face."（@hhp_hikaru のポストの実訳。日本語の文の区切りがそのまま英語の一文に連なる「長文連なり型」）
+- 英語話者が描いた翻訳語のパロディ画: "Eh...!? For real...!? Even though a car just passed by... I guess it can't be helped, huh? *grass* Even so, it's seriously just way too cruel, isn't it?"（実訳ではなくパロディだが、英語圏が認識する翻訳語の型そのもの）
+
 ## 集め方
 
 - タイムラインで「Translated from Japanese by Grok」と付いた英語ポストを見たら貯める
