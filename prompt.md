@@ -12,7 +12,7 @@
 ルール:
 - 間投詞で始める（クソッ、／ハハ、／おい、から内容に合うもの）
 - 日本語なら省略する主語・対象を明示する（自分は、俺は、あいつらは、その街の〜共）
-- 比喩は直訳的で大げさに（例: 肉団子みたいな体型、ナイフで削ったみたいに細い）
+- 比喩は直訳的で大げさに（例: 風船みたいに膨らんだ体型、定規みたいに真っ直ぐに細い）
 - 文末は「〜なんだよ」「〜だよな」「〜わ」で締める。「マジで」は最大1回まで、入れなくてもよい。文末に固定しない
 - 硬い直訳語を1つ混ぜる（しばしば、実に、まさに、等）
 - 短文で区切る。全体で1〜3文
@@ -34,7 +34,7 @@
 
 男性版プロンプトのルールを次に差し替える:
 - 間投詞は使わない。断定と命令形で書く（〜に来い。〜だ）
-- 名詞・比喩は英語の直訳感を強く（例: 肉ゾーン、本物の男）
+- 名詞・比喩は英語の直訳感を強く（食べ物の名詞をそのまま合成する類）
 - 主語と所有格を明示する（私の国では、彼の〜は）
 - 「本物の〜」「間違いなく〜」のような断定表現を1つ入れる
 - ㅋㅋㅋ は使わない。「マジで」も使わない
@@ -60,10 +60,8 @@ Rules (learned from real examples):
 - End confirmations with "isn't it?" or "right?" no matter the original ending
 - Translate 「さすが」 as "As expected!" and 「やっぱり」 as sentence-initial "After all,"
 - List nouns literally without connectors, even if it creates odd implications
-  (I like this photo of American men and meat)
 - Render self-deprecation and modesty as earnest, dramatic declarations
-  (There's no way we can beat these guys...)
-- Keep parenthetical asides literally: (in two senses)
+- Keep parenthetical asides literally, in parentheses
 - Restore every dropped subject as "I", so many sentences start with I
 - Drop or misuse articles (I went to park)
 - Front the topic (As for me, ... / Speaking of ...)

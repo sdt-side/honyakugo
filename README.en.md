@@ -7,8 +7,8 @@ that spread on X, written as if a foreign-language post (mostly casual Korean
 posts) had been machine-translated into Japanese.
 
 It is based on a post that went viral in November 2026
-("クソッ、街を歩いててたら自分だけ肉団子みたいな体型なんだよ。マジでバカげてるわ。")
 and its reply thread, where everyone replied in translationese.
+Other people's posts are not quoted verbatim, out of respect for their rights.
 
 ## Contents
 
