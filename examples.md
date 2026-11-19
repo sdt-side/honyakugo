@@ -26,6 +26,11 @@
 通常: 私の人生でもよく起こります
 翻訳語D: As for me, it often happens in my life too.
 
+通常: 翻訳語の精度を高めるために無駄にスクロールしてた
+翻訳語D（おすすめ）: As for me, I continued to scroll endlessly for the sake of making the translationese more accurate, and before I noticed, a lot of time had completely passed www
+（ポイント: As for me の話題先行、before I noticed＝「気づいたら」の直訳、completely＝「すっかり」の直訳、
+そして笑いの www は訳さず生のまま残す。www の生残しは D-8 の生成上の選択肢として有効）
+
 ## 韓国語版・翻訳語
 
 通常: 私の人生でもよく起こります
